@@ -9,5 +9,6 @@
 	"size": 789643151,
 	"url": "https://dotsrc.dl.osdn.net/osdn/storage/g/r/re/revengeos/dipper/RevengeOS-3.2-Q-OFFICIAL-dipper-20200309-1532.zip",
 	"version": "3.2",
-	"filehash": ""
+	"filehash": "",
+	"changelog": "Update to stable Q blobs\nSwitch to one plus 6 thermal engine\nStrip kernel of walt and inline with 4.19\nImproved bluetooth power consumption\nMigrate to clang 11.0.0 for kernel "
 }
